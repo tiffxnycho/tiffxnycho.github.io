@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing for Emergencies
-subtitle: There's lots to learn!
+subtitle: The journey of preparing of emergencies
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [emergency, risks,plans]
 tags: [emergencies]
